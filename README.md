@@ -9,8 +9,8 @@ Introduction description
 
 ## Purpose
 
-Purpose description
+Purpose description updated
 
 ## Deployment
 
-Deployment block
+Deployment block updated
